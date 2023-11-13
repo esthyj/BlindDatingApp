@@ -9,14 +9,14 @@ Many people are reluctant to show their face in blind dating app. So we designed
 ## Dataset
 CelebA Dataset
 ## Models
-(1) Object detection: Faster R-CNN, MTCNN
+(1) Object detection: Faster R-CNN, MTCNN<br/>
 (2) Image captioning: ResNet152-LSTM, Transformer
 ## Reference
-[1] A Method of Eye and Lip Region Detection using Faster R-CNN Face Image
-https://koreascience.kr/article/JAKO201827041051649.pdf
-[2] Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
-https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf
-[3] Image Caption Generator Using RESNET-LSTM
-https://www.ijres.org/papers/Volume-9/Issue-8/Series-1/L09086471.pdf
-[4] End-to-End Transformer Based Model for Image Captioning (Yiyu Wang)
+[1] A Method of Eye and Lip Region Detection using Faster R-CNN Face Image<br/>
+https://koreascience.kr/article/JAKO201827041051649.pdf<br/>
+[2] Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks<br/>
+https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf<br/>
+[3] Image Caption Generator Using RESNET-LSTM<br/>
+https://www.ijres.org/papers/Volume-9/Issue-8/Series-1/L09086471.pdf<br/>
+[4] End-to-End Transformer Based Model for Image Captioning (Yiyu Wang)<br/>
 https://arxiv.org/pdf/2203.15350.pdf
